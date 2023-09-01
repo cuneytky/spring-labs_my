@@ -63,6 +63,6 @@ public class RecipeServiceImpl implements RecipeService {
     }
 
     private int generateRandomValue() {
-        return new Random().nextInt(20);
+        return new Random().nextInt(20)+1;
     }
 }

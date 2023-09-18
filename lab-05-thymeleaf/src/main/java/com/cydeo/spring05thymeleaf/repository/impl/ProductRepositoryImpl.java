@@ -25,6 +25,7 @@ public class ProductRepositoryImpl implements ProductRepository {
 
     @Override
     public List<Product> findAll() {
+
         return PRODUCT_LIST;
     }
 }

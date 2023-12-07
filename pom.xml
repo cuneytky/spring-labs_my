@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>lab-03-springboot</module>
+        <module>lab-08-rest</module>
+        <module>lab-08-rest</module>
     </modules>
 
     <properties>
